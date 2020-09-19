@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ni7t87llt9e1",
+  "name": "ParticleModSyuuBypass",
+  "description": "Allow you to use ParticleMod in syuu.net",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/FluzerQAQ/ParticleModSyuuBypass",
+  "updateUrl": "",
+  "authorList": ["INDEX","FluzerQAQ"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
